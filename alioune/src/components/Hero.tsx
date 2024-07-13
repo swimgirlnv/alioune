@@ -34,7 +34,7 @@ const Hero: React.FC = () => (
     <HeroContent>
       <h1>Alioune Badara</h1>
       <p>Model & Fashion Icon</p>
-      <p>From France to TX</p>
+      <p>From France to San Francisco</p>
     </HeroContent>
   </HeroWrapper>
 );

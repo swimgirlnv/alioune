@@ -23,7 +23,10 @@ const About: React.FC = () => (
     <AboutContent>
       <h2>About Alioune</h2>
       <p>
-        Alioune is a French model with a passion for fashion and elegance. With years of experience in the industry, Alioune has worked with top designers and photographers, bringing a unique blend of grace and style to every shoot.
+      I’m Senegalese. 
+      I was raised and started working as a model in France 
+      I worked for Mirage Paris as Egerie of their brand and 
+      now I’m living in San Francisco . 
       </p>
     </AboutContent>
   </AboutWrapper>

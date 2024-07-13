@@ -66,7 +66,7 @@ const PortfolioGallery: React.FC = () => (
   <GalleryWrapper>
     <h2>Portfolio</h2>
     <GalleryGrid>
-      <GalleryItem>
+    <GalleryItem>
         <img src="https://i.imgur.com/sROnFEI.jpeg" alt="Model in Red sweatshirt and Blue jeans" />
         <div className="overlay">Red Sweatshirt & Blue Jeans</div>
       </GalleryItem>
@@ -74,7 +74,39 @@ const PortfolioGallery: React.FC = () => (
         <img src="https://i.imgur.com/jA9uwuF.png" alt="Model in all white outfit" />
         <div className="overlay">All White Outfit</div>
       </GalleryItem>
-      {/* Add more GalleryItem components as needed */}
+      <GalleryItem>
+        <img src="https://i.imgur.com/7I0gBp8.png" alt="Model in Red sweatshirt and Blue jeans" />
+        <div className="overlay">Red Sweatshirt & Blue Jeans</div>
+      </GalleryItem>
+      <GalleryItem>
+        <img src="https://i.imgur.com/IYwem2I.png" alt="Model in all white outfit" />
+        <div className="overlay">All White Outfit</div>
+      </GalleryItem>
+      <GalleryItem>
+        <img src="https://i.imgur.com/Qq5NjRq.png" alt="Model in Red sweatshirt and Blue jeans" />
+        <div className="overlay">Red Sweatshirt & Blue Jeans</div>
+      </GalleryItem>
+      <GalleryItem>
+        <img src="https://i.imgur.com/kpSpYjK.png" alt="Model in all white outfit" />
+        <div className="overlay">All White Outfit</div>
+      </GalleryItem>
+      <GalleryItem>
+        <img src="https://i.imgur.com/r3OAmfy.png" alt="Model in Red sweatshirt and Blue jeans" />
+        <div className="overlay">Red Sweatshirt & Blue Jeans</div>
+      </GalleryItem>
+      <GalleryItem>
+        <img src="https://i.imgur.com/CDiyupa.png" alt="Model in all white outfit" />
+        <div className="overlay">All White Outfit</div>
+      </GalleryItem>
+      <GalleryItem>
+        <img src="https://i.imgur.com/I4KrKda.png" alt="Model in Red sweatshirt and Blue jeans" />
+        <div className="overlay">Red Sweatshirt & Blue Jeans</div>
+      </GalleryItem>
+      <GalleryItem>
+        <img src="https://i.imgur.com/h68LJN7.png" alt="Model in all white outfit" />
+        <div className="overlay">All White Outfit</div>
+      </GalleryItem>
+      
     </GalleryGrid>
   </GalleryWrapper>
 );
